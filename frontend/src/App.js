@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          className="Awdev-Editor"
           href="https://www.awdev.my.id/home.html"
           target="_blank"
           rel="noopener noreferrer"
