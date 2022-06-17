@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://wahyu9kdl.github.io/DASHBOARD/TOOLS/CodeSandbox.html"
           target="_blank"
           rel="noopener noreferrer"
         >
